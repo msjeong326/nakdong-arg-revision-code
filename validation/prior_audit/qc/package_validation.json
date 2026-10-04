@@ -1,0 +1,90 @@
+{
+  "comparisons": [
+    {
+      "file": "diagnostic_multilabel_classes.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_Fig3a_sequential.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_Procrustes.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_all_1064_models.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_class_models.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_deseq2.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_dml_refit.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_gcomp_refit.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_network_hubs.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_network_summary.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_permanova.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    },
+    {
+      "file": "independent_spatial_45.csv",
+      "exists": true,
+      "same_shape": true,
+      "mismatching_columns": [],
+      "passed": true
+    }
+  ],
+  "package_inputs_unchanged": true,
+  "release_gate": "OPEN: factual input authority and complete manuscript coverage unresolved"
+}

@@ -1,0 +1,108 @@
+{
+  "state": "CORE_VALIDATED_RELEASE_PENDING",
+  "pid": 720798,
+  "package_fingerprint": "3fb408aaeb1e9ea8bf79aa4aef6c64d623500c94c32bf95dbe8b023f1e9965a5",
+  "completed_stages": [
+    "01_arg_associations.py",
+    "02_community_DESeq2.R",
+    "03_functional_MAG.py",
+    "04_DML_contrasts.py",
+    "05_predictive_mirror.py",
+    "06_spatial_network_procrustes.R",
+    "07_fig5_full_refits.py"
+  ],
+  "failed_stages": [],
+  "public_release": false,
+  "updated_utc": "2026-09-30T00:37:46.836185+00:00",
+  "active_stage": null,
+  "validation": {
+    "comparisons": [
+      {
+        "file": "diagnostic_multilabel_classes.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_Fig3a_sequential.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_Procrustes.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_all_1064_models.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_class_models.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_deseq2.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_dml_refit.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_gcomp_refit.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_network_hubs.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_network_summary.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_permanova.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      },
+      {
+        "file": "independent_spatial_45.csv",
+        "exists": true,
+        "same_shape": true,
+        "mismatching_columns": [],
+        "passed": true
+      }
+    ],
+    "package_inputs_unchanged": true,
+    "release_gate": "OPEN: factual input authority and complete manuscript coverage unresolved"
+  }
+}

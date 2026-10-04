@@ -1,0 +1,400 @@
+"taxon","season","degree","betweenness","rank_degree","rank_betw","hub_rank_sum","hub_rank"
+"Microcystis sp. MC19","spring",72,0.0255617398474541,1,6,7,1
+"Microcystis viridis","spring",68,0.0175221603793032,3,9,12,2
+"Microcystis aeruginosa","spring",72,0.0124716553287982,1,15,16,3
+"Ruminococcus sp. FMBCY1","spring",58,0.036178107606679,15,2,17,4
+"Planktothrix agardhii","spring",57,0.0513296227581942,18,1,19,5
+"Candidatus Planktophila limnetica","spring",68,0.0116470830756545,3,19,22,6
+"Limnohabitans sp. 63ED37-2","spring",57,0.0312306740878169,18,5,23,7
+"Candidatus Nanopelagicus abundans","spring",64,0.0124716553287982,10,15,25,8
+"Candidatus Nanopelagicus limnes","spring",58,0.0157699443413729,15,11,26,9
+"Paraglaciecola sp. L1A13","spring",55,0.0344258915687487,27,4,31,10
+"Polynucleobacter sp. MWH-CaK5","spring",66,0.0085549371263657,6,25,31,11
+"Polynucleobacter sp. Adler-ghost","spring",66,0.00793650793650794,6,26,32,12
+"Candidatus Planktophila vernalis","spring",56,0.0148423005565863,21,14,35,13
+"Polynucleobacter difficilis","spring",67,0.00453514739229025,5,32,37,14
+"Candidatus Methylopumilus universalis","spring",62,0.00556586270871985,11,30,41,15
+"Legionella pneumophila","spring",62,0.00412286126571841,11,33,44,16
+"Polynucleobacter necessarius","spring",65,0.00360750360750361,8,37,45,17
+"Acinetobacter baumannii","spring",57,0.00639043496186353,18,27,45,18
+"Thermothielavioides terrestris","spring",58,0.00371057513914657,15,35,50,19
+"Sphingorhabdus lacus","spring",48,0.0244279529993816,43,7,50,20
+"Acidovorax sp. RAC01","spring",51,0.0123685837971552,37,17,54,21
+"Polynucleobacter sp. AM-7D1","spring",61,0.00288600288600289,14,42,56,22
+"Comamonas aquatica","spring",44,0.0152545866831581,48,12,60,23
+"Pyricularia grisea","spring",56,0.00298907441764585,21,41,62,24
+"Polynucleobacter asymbioticus","spring",65,0.0010307153164296,8,58,66,25
+"Luteolibacter ambystomatis","spring",33,0.0152545866831581,57,12,69,26
+"Limnohabitans sp. 103DPR2","spring",53,0.00360750360750361,33,37,70,27
+"Penicillium oxalicum","spring",56,0.0020614306328592,21,50,71,28
+"Polynucleobacter sp. MWH-Aus1W21","spring",38,0.0113378684807256,51,20,71,29
+"Luteolibacter luteus","spring",35,0.0117501546072975,53,18,71,30
+"Acidovorax sp. T1","spring",45,0.00865800865800866,47,24,71,31
+"Puccinia striiformis","spring",47,0.00597814883529169,44,29,73,32
+"Photobacterium damselae","spring",53,0.00288600288600289,33,42,75,33
+"Cohnella abietis","spring",35,0.010307153164296,53,23,76,34
+"Acinetobacter lwoffii","spring",34,0.0112347969490827,56,21,77,35
+"Pseudomonas sp. S34","spring",18,0.0162853019995877,68,10,78,36
+"Pseudomonas fluorescens","spring",33,0.0108225108225108,57,22,79,37
+"Acidovorax carolinensis","spring",47,0.00371057513914657,44,35,79,38
+"Pyricularia pennisetigena","spring",54,0.00195835910121624,29,51,80,39
+"Ustilaginoidea virens","spring",53,0.00247371675943105,33,47,80,40
+"Rahnella inusitata","spring",16,0.0199958771387343,72,8,80,41
+"Candidatus Fonsibacter ubiquis","spring",52,0.00257678829107401,36,46,82,42
+"Polynucleobacter sp. AP-Ainpum-60-G11","spring",62,0.00020614306328592,11,71,82,43
+"Flavobacterium sp. N2820","spring",10,0.0350443207586065,80,3,83,44
+"Aspergillus luchuensis","spring",56,0.000618429189857761,21,63,84,45
+"Pochonia chlamydosporia","spring",56,0.000412286126571841,21,66,87,46
+"Psilocybe cubensis","spring",51,0.00164914450628736,37,52,89,47
+"Botrytis cinerea","spring",56,0.00020614306328592,21,71,92,48
+"Bibersteinia trehalosi","spring",26,0.00618429189857761,64,28,92,49
+"Polynucleobacter sp. MWH-UH24A","spring",31,0.00412286126571841,60,33,93,50
+"Variovorax paradoxus","spring",27,0.00474129045557617,63,31,94,51
+"Neurospora crassa","spring",54,0.000412286126571841,29,66,95,52
+"Colletotrichum higginsianum","spring",49,0.0010307153164296,42,58,100,53
+"Talaromyces rugulosus","spring",54,0.00020614306328592,29,71,100,54
+"Pseudanabaena sp. ABRG5-3","spring",28,0.00350443207586065,62,39,101,55
+"Fusarium pseudograminearum","spring",50,0.000618429189857761,40,63,103,56
+"Fusarium poae","spring",51,0.000412286126571841,37,66,103,57
+"Fusarium musae","spring",38,0.00123685837971552,51,54,105,58
+"Fusarium fujikuroi","spring",55,0,27,78,105,59
+"Aspergillus flavus","spring",32,0.00247371675943105,59,47,106,60
+"Thermothelomyces thermophilus","spring",54,0,29,78,107,61
+"Candidatus Planktophila sulfonica","spring",18,0.00288600288600289,68,42,110,62
+"Drechmeria coniospora","spring",46,0.000412286126571841,46,66,112,63
+"Candidatus Planktophila lacus","spring",29,0.00164914450628736,61,52,113,64
+"Haloarcula taiwanensis","spring",35,0.000824572253143682,53,60,113,65
+"Acidovorax sp. JMULE5","spring",17,0.00288600288600289,71,42,113,66
+"Pseudomonas sp. MM213","spring",19,0.00247371675943105,67,47,114,67
+"Pyricularia oryzae","spring",50,0,40,78,118,68
+"Candidatus Nanopelagicus hibericus","spring",24,0.00123685837971552,65,54,119,69
+"Bacillus thuringiensis","spring",9,0.00309214594928881,82,40,122,70
+"Pseudomonas izuensis","spring",18,0.00123685837971552,68,54,122,71
+"Purpureocillium takamizusanense","spring",44,0,48,78,126,72
+"Candida dubliniensis","spring",41,0,50,78,128,73
+"Candidatus Planktophila dulcis","spring",14,0.000824572253143682,76,60,136,74
+"Pseudomonas putida","spring",15,0.000412286126571841,74,66,140,75
+"Fusarium venenatum","spring",24,0,65,78,143,76
+"Gemmobacter aquarius","spring",16,0.00020614306328592,72,71,143,77
+"Flavobacterium channae","spring",4,0.00123685837971552,89,54,143,78
+"Priestia megaterium","spring",8,0.000824572253143682,84,60,144,79
+"Pseudomonas sp. PP3","spring",15,0.00020614306328592,74,71,145,80
+"Candidatus Planktophila versatilis","spring",14,0.00020614306328592,76,71,147,81
+"Pseudomonas syringae","spring",7,0.000618429189857761,85,63,148,82
+"Paenibacillus larvae","spring",10,0.00020614306328592,80,71,151,83
+"Bacillus cereus","spring",12,0,78,78,156,84
+"Curvibacter sp. AEP1-3","spring",12,0,78,78,156,85
+"Acidovorax sp. KKS102","spring",9,0,82,78,160,86
+"Klebsiella pneumoniae","spring",7,0,85,78,163,87
+"Pseudomonas reinekei","spring",6,0,87,78,165,88
+"Salmonella enterica","spring",5,0,88,78,166,89
+"Flavobacterium sp. Sr18","spring",3,0,90,78,168,90
+"Flavobacterium cyclinae","spring",3,0,90,78,168,91
+"Microcoleus vaginatus","spring",1,0,92,78,170,92
+"Pseudomonas aeruginosa","spring",1,0,92,78,170,93
+"Oscillatoria nigro-viridis","spring",1,0,92,78,170,94
+"Escherichia coli","spring",0,0,95,78,173,95
+"Candidatus Methylopumilus rimovensis","spring",0,0,95,78,173,96
+"Circovirus-like genome DHCV-1","spring",0,0,95,78,173,97
+"Streptomyces lividans","spring",0,0,95,78,173,98
+"Pirellula sp. SH-Sr6A","spring",0,0,95,78,173,99
+"Aeromonas sp. 2692-1","spring",0,0,95,78,173,100
+"Limnohabitans sp. 103DPR2","summer",58,0.0321901956658952,2,9,11,1
+"Polynucleobacter sp. MWH-UH24A","summer",56,0.0191458026509573,15,15,30,2
+"Haloarcula taiwanensis","summer",58,0.00610140963601936,2,37,39,3
+"Polynucleobacter sp. MWH-CaK5","summer",49,0.0544918998527246,37,3,40,4
+"Legionella pneumophila","summer",51,0.0235640648011782,30,11,41,5
+"Pseudomonas sp. S34","summer",47,0.0452345886808332,38,4,42,6
+"Pseudomonas izuensis","summer",45,0.0606985062066064,43,1,44,7
+"Acinetobacter baumannii","summer",50,0.0214601304439302,33,12,45,8
+"Aspergillus flavus","summer",52,0.0134651798863875,27,22,49,9
+"Candidatus Planktophila vernalis","summer",52,0.0130443930149379,27,23,50,10
+"Candidatus Methylopumilus rimovensis","summer",50,0.0180938354723333,33,18,51,11
+"Purpureocillium takamizusanense","summer",56,0.00547022932884494,15,38,53,12
+"Cohnella abietis","summer",51,0.0130443930149379,30,23,53,13
+"Neurospora crassa","summer",59,0.00315590153587208,1,53,54,14
+"Thermothielavioides terrestris","summer",57,0.0037870818430465,8,48,56,15
+"Fusarium venenatum","summer",56,0.00525983589312013,15,41,56,16
+"Priestia megaterium","summer",53,0.00841573742899222,26,31,57,17
+"Candidatus Planktophila limnetica","summer",45,0.0184094256259205,43,16,59,18
+"Candidatus Planktophila lacus","summer",51,0.0079949505575426,30,32,62,19
+"Candidatus Fonsibacter ubiquis","summer",24,0.0416579002735115,58,5,63,20
+"Bacillus cereus","summer",55,0.00462865558594572,21,43,64,21
+"Candidatus Nanopelagicus hibericus","summer",38,0.0201977698295813,53,14,67,22
+"Limnohabitans sp. 63ED37-2","summer",24,0.0294550810014728,58,10,68,23
+"Pirellula sp. SH-Sr6A","summer",50,0.00652219650746897,33,35,68,24
+"Puccinia striiformis","summer",52,0.00483904902167052,27,42,69,25
+"Polynucleobacter difficilis","summer",16,0.0552282768777614,68,2,70,26
+"Candidatus Planktophila dulcis","summer",40,0.0136755733221124,51,21,72,27
+"Acidovorax sp. T1","summer",22,0.0361876709446665,65,7,72,28
+"Pochonia chlamydosporia","summer",58,0.000420786871449611,2,71,73,29
+"Candidatus Planktophila sulfonica","summer",44,0.00904691773616663,45,29,74,30
+"Pyricularia pennisetigena","summer",58,0.000210393435724805,2,72,74,31
+"Ustilaginoidea virens","summer",57,0.00105196717862403,8,67,75,32
+"Botrytis cinerea","summer",55,0.00189354092152325,21,58,79,33
+"Planktothrix agardhii","summer",23,0.0166210814222596,60,20,80,34
+"Penicillium oxalicum","summer",58,0,2,78,80,35
+"Talaromyces rugulosus","summer",58,0,2,78,80,36
+"Paraglaciecola sp. L1A13","summer",36,0.0109404586576899,54,28,82,37
+"Bibersteinia trehalosi","summer",10,0.0367136545339785,76,6,82,38
+"Microcoleus vaginatus","summer",47,0.00441826215022091,38,45,83,39
+"Curvibacter sp. AEP1-3","summer",23,0.0130443930149379,60,23,83,40
+"Candidatus Nanopelagicus limnes","summer",46,0.00462865558594572,41,43,84,41
+"Paenibacillus larvae","summer",28,0.0111508520934147,57,27,84,42
+"Pseudomonas reinekei","summer",10,0.0336629497159689,76,8,84,43
+"Thermothelomyces thermophilus","summer",56,0.000841573742899221,15,70,85,44
+"Pseudomonas sp. MM213","summer",13,0.0210393435724805,72,13,85,45
+"Pyricularia grisea","summer",57,0,8,78,86,46
+"Aspergillus luchuensis","summer",57,0,8,78,86,47
+"Fusarium poae","summer",57,0,8,78,86,48
+"Pyricularia oryzae","summer",57,0,8,78,86,49
+"Fusarium fujikuroi","summer",57,0,8,78,86,50
+"Drechmeria coniospora","summer",55,0.00105196717862403,21,67,88,51
+"Acidovorax sp. RAC01","summer",13,0.0175678518830212,72,19,91,52
+"Colletotrichum higginsianum","summer",56,0,15,78,93,53
+"Fusarium musae","summer",55,0.000210393435724805,21,72,93,54
+"Fusarium pseudograminearum","summer",56,0,15,78,93,55
+"Luteolibacter ambystomatis","summer",44,0.00357668840732169,45,49,94,56
+"Rahnella inusitata","summer",50,0.00168314748579844,33,62,95,57
+"Candida dubliniensis","summer",44,0.00336629497159689,45,50,95,58
+"Candidatus Methylopumilus universalis","summer",23,0.00547022932884494,60,38,98,59
+"Candidatus Planktophila versatilis","summer",16,0.00862613086471702,68,30,98,60
+"Luteolibacter luteus","summer",41,0.00336629497159689,49,50,99,61
+"Psilocybe cubensis","summer",55,0,21,78,99,62
+"Candidatus Nanopelagicus abundans","summer",19,0.0077845571218178,67,33,100,63
+"Salmonella enterica","summer",44,0.00294550810014728,45,55,100,64
+"Acidovorax carolinensis","summer",22,0.00631180307174416,65,36,101,65
+"Ruminococcus sp. FMBCY1","summer",47,0.00126236061434883,38,64,102,66
+"Oscillatoria nigro-viridis","summer",39,0.00315590153587208,52,53,105,67
+"Variovorax paradoxus","summer",14,0.00715337681464338,71,34,105,68
+"Photobacterium damselae","summer",41,0.00210393435724805,49,57,106,69
+"Pseudomonas aeruginosa","summer",5,0.0183042289080581,90,17,107,70
+"Escherichia coli","summer",36,0.00294550810014728,54,55,109,71
+"Bacillus thuringiensis","summer",46,0.000210393435724805,41,72,113,72
+"Gemmobacter aquarius","summer",5,0.0113612455291395,90,26,116,73
+"Klebsiella pneumoniae","summer",23,0.00189354092152325,60,58,118,74
+"Acidovorax sp. JMULE5","summer",15,0.00336629497159689,70,50,120,75
+"Sphingorhabdus lacus","summer",6,0.00547022932884494,86,38,124,76
+"Comamonas aquatica","summer",23,0.00126236061434883,60,64,124,77
+"Flavobacterium sp. Sr18","summer",6,0.00441826215022091,86,45,131,78
+"Pseudomonas putida","summer",6,0.00420786871449611,86,47,133,79
+"Acinetobacter lwoffii","summer",34,0,56,78,134,80
+"Flavobacterium channae","summer",11,0.00178834420366085,74,60,134,81
+"Acidovorax sp. KKS102","summer",11,0.00136755733221124,74,63,137,82
+"Flavobacterium cyclinae","summer",7,0.00178834420366085,79,60,139,83
+"Pseudomonas sp. PP3","summer",7,0.00126236061434883,79,64,143,84
+"Polynucleobacter sp. MWH-Aus1W21","summer",7,0.00105196717862403,79,67,146,85
+"Polynucleobacter sp. Adler-ghost","summer",10,0.000210393435724805,76,72,148,86
+"Polynucleobacter necessarius","summer",7,0,79,78,157,87
+"Polynucleobacter asymbioticus","summer",7,0,79,78,157,88
+"Polynucleobacter sp. AP-Ainpum-60-G11","summer",7,0,79,78,157,89
+"Polynucleobacter sp. AM-7D1","summer",7,0,79,78,157,90
+"Pseudomonas fluorescens","summer",6,0.000210393435724805,86,72,158,91
+"Flavobacterium sp. N2820","summer",5,0.000210393435724805,90,72,162,92
+"Streptomyces lividans","summer",4,0,93,78,171,93
+"Microcystis aeruginosa","summer",2,0,94,78,172,94
+"Microcystis viridis","summer",2,0,94,78,172,95
+"Microcystis sp. MC19","summer",2,0,94,78,172,96
+"Pseudomonas syringae","summer",2,0,94,78,172,97
+"Pseudanabaena sp. ABRG5-3","summer",1,0,98,78,176,98
+"Aeromonas sp. 2692-1","summer",0,0,99,78,177,99
+"Pseudomonas syringae","fall",34,0.0312306740878169,3,7,10,1
+"Candidatus Nanopelagicus abundans","fall",38,0.0279323850752422,1,10,11,2
+"Candidatus Planktophila lacus","fall",31,0.0450422593279736,11,4,15,3
+"Pochonia chlamydosporia","fall",36,0.0254586683158112,2,13,15,4
+"Bacillus cereus","fall",31,0.0352504638218924,11,6,17,5
+"Puccinia striiformis","fall",28,0.0290661719233148,15,9,24,6
+"Candidatus Nanopelagicus limnes","fall",34,0.0189651618223047,3,22,25,7
+"Talaromyces rugulosus","fall",34,0.0183467326324469,3,23,26,8
+"Drechmeria coniospora","fall",33,0.0190682333539476,7,21,28,9
+"Candidatus Fonsibacter ubiquis","fall",24,0.0494743351886209,26,3,29,10
+"Oscillatoria nigro-viridis","fall",26,0.0272108843537415,18,11,29,11
+"Acidovorax sp. RAC01","fall",25,0.0270047412904556,22,12,34,12
+"Circovirus-like genome DHCV-1","fall",27,0.0197897340754484,16,19,35,13
+"Flavobacterium sp. Sr18","fall",23,0.0305091733663162,28,8,36,14
+"Purpureocillium takamizusanense","fall",34,0.0111317254174397,3,36,39,15
+"Candidatus Methylopumilus rimovensis","fall",25,0.0212327355184498,22,17,39,16
+"Candidatus Nanopelagicus hibericus","fall",32,0.0143269428983715,9,31,40,17
+"Polynucleobacter sp. Adler-ghost","fall",21,0.0435992578849722,35,5,40,18
+"Pyricularia pennisetigena","fall",33,0.0136054421768707,7,34,41,19
+"Photobacterium damselae","fall",17,0.0836940836940837,44,1,45,20
+"Candida dubliniensis","fall",20,0.0241187384044527,41,16,57,21
+"Botrytis cinerea","fall",29,0.00783343640486498,13,45,58,22
+"Pseudomonas sp. MM213","fall",13,0.0593692022263451,56,2,58,23
+"Candidatus Methylopumilus universalis","fall",27,0.00824572253143682,16,44,60,24
+"Thermothelomyces thermophilus","fall",22,0.0138115852401567,31,32,63,25
+"Polynucleobacter necessarius","fall",21,0.0168006596578025,35,29,64,26
+"Priestia megaterium","fall",26,0.00742115027829314,18,48,66,27
+"Pyricularia grisea","fall",23,0.00948258091115234,28,41,69,28
+"Candidatus Planktophila vernalis","fall",22,0.0095856524427953,31,40,71,29
+"Luteolibacter luteus","fall",10,0.0249433106575964,59,14,73,30
+"Candidatus Planktophila dulcis","fall",32,0.00360750360750361,9,65,74,31
+"Bacillus thuringiensis","fall",16,0.0178313749742321,48,27,75,32
+"Fusarium fujikuroi","fall",24,0.00711193568336425,26,49,75,33
+"Acidovorax sp. KKS102","fall",16,0.0169037311894455,48,28,76,34
+"Flavobacterium sp. N2820","fall",12,0.0193774479488765,57,20,77,35
+"Pseudomonas putida","fall",10,0.0199958771387343,59,18,77,36
+"Fusarium poae","fall",29,0.00371057513914657,13,64,77,37
+"Aspergillus luchuensis","fall",25,0.00474129045557617,22,56,78,38
+"Acidovorax sp. JMULE5","fall",20,0.0107194392908679,41,37,78,39
+"Acidovorax sp. T1","fall",23,0.00680272108843537,28,50,78,40
+"Comamonas aquatica","fall",15,0.018037518037518,52,26,78,41
+"Fusarium venenatum","fall",15,0.0148423005565863,52,30,82,42
+"Haloarcula taiwanensis","fall",26,0.00309214594928881,18,67,85,43
+"Variovorax paradoxus","fall",15,0.010307153164296,52,38,90,44
+"Acidovorax carolinensis","fall",21,0.00515357658214801,35,55,90,45
+"Limnohabitans sp. 63ED37-2","fall",12,0.0117501546072975,57,35,92,46
+"Polynucleobacter sp. MWH-CaK5","fall",10,0.0137085137085137,59,33,92,47
+"Neurospora crassa","fall",26,0.000412286126571841,18,76,94,48
+"Gemmobacter aquarius","fall",15,0.00834879406307978,52,43,95,49
+"Cohnella abietis","fall",21,0.00412286126571841,35,61,96,50
+"Aspergillus flavus","fall",25,0.000618429189857761,22,74,96,51
+"Pirellula sp. SH-Sr6A","fall",3,0.0242218099360956,83,15,98,52
+"Candidatus Planktophila limnetica","fall",20,0.00453514739229025,41,59,100,53
+"Polynucleobacter difficilis","fall",10,0.00865800865800866,59,42,101,54
+"Thermothielavioides terrestris","fall",21,0.00257678829107401,35,69,104,55
+"Candidatus Planktophila sulfonica","fall",17,0.00432900432900433,44,60,104,56
+"Polynucleobacter asymbioticus","fall",16,0.00474129045557617,48,56,104,57
+"Microcystis viridis","fall",4,0.0183467326324469,82,23,105,58
+"Paenibacillus larvae","fall",8,0.0101010101010101,66,39,105,59
+"Streptomyces lividans","fall",3,0.0183467326324469,83,23,106,60
+"Flavobacterium channae","fall",10,0.0075242218099361,59,47,106,61
+"Fusarium musae","fall",22,0,31,81,112,62
+"Pyricularia oryzae","fall",22,0,31,81,112,63
+"Ustilaginoidea virens","fall",21,0.00020614306328592,35,78,113,64
+"Microcystis aeruginosa","fall",7,0.00783343640486498,69,45,114,65
+"Candidatus Planktophila versatilis","fall",17,0.000824572253143682,44,73,117,66
+"Pseudomonas izuensis","fall",9,0.00618429189857761,65,52,117,67
+"Psilocybe cubensis","fall",17,0.000618429189857761,44,74,118,68
+"Limnohabitans sp. 103DPR2","fall",7,0.00659657802514945,69,51,120,69
+"Pseudomonas aeruginosa","fall",7,0.00556586270871985,69,53,122,70
+"Fusarium pseudograminearum","fall",16,0.00020614306328592,48,78,126,71
+"Sphingorhabdus lacus","fall",6,0.00535971964543393,75,54,129,72
+"Polynucleobacter sp. MWH-UH24A","fall",6,0.00474129045557617,75,56,131,73
+"Polynucleobacter sp. AP-Ainpum-60-G11","fall",10,0.0010307153164296,59,72,131,74
+"Flavobacterium cyclinae","fall",7,0.00391671820243249,69,63,132,75
+"Polynucleobacter sp. MWH-Aus1W21","fall",8,0.00164914450628736,66,70,136,76
+"Luteolibacter ambystomatis","fall",7,0.00267985982271697,69,68,137,77
+"Pseudomonas fluorescens","fall",5,0.00412286126571841,79,61,140,78
+"Pseudomonas sp. S34","fall",6,0.00164914450628736,75,70,145,79
+"Polynucleobacter sp. AM-7D1","fall",7,0.000412286126571841,69,76,145,80
+"Curvibacter sp. AEP1-3","fall",8,0,66,81,147,81
+"Escherichia coli","fall",3,0.00329828901257473,83,66,149,82
+"Bibersteinia trehalosi","fall",6,0,75,81,156,83
+"Colletotrichum higginsianum","fall",5,0,79,81,160,84
+"Pseudomonas sp. PP3","fall",5,0,79,81,160,85
+"Microcoleus vaginatus","fall",3,0,83,81,164,86
+"Acinetobacter baumannii","fall",2,0.00020614306328592,87,78,165,87
+"Pseudomonas reinekei","fall",2,0,87,81,168,88
+"Planktothrix agardhii","fall",1,0,89,81,170,89
+"Legionella pneumophila","fall",1,0,89,81,170,90
+"Klebsiella pneumoniae","fall",1,0,89,81,170,91
+"Microcystis sp. MC19","fall",1,0,89,81,170,92
+"Salmonella enterica","fall",1,0,89,81,170,93
+"Rahnella inusitata","fall",1,0,89,81,170,94
+"Ruminococcus sp. FMBCY1","fall",1,0,89,81,170,95
+"Pseudanabaena sp. ABRG5-3","fall",1,0,89,81,170,96
+"Acinetobacter lwoffii","fall",0,0,97,81,178,97
+"Paraglaciecola sp. L1A13","fall",0,0,97,81,178,98
+"Penicillium oxalicum","fall",0,0,97,81,178,99
+"Aeromonas sp. 2692-1","fall",0,0,97,81,178,100
+"Curvibacter sp. AEP1-3","winter",53,0.059678416821274,1,2,3,1
+"Pseudomonas sp. MM213","winter",44,0.0346320346320346,8,8,16,2
+"Pseudomonas sp. PP3","winter",41,0.0509173366316223,16,3,19,3
+"Aspergillus luchuensis","winter",47,0.0270047412904556,3,17,20,4
+"Comamonas aquatica","winter",48,0.0254586683158112,2,19,21,5
+"Acidovorax sp. RAC01","winter",44,0.0300968872397444,8,14,22,6
+"Ustilaginoidea virens","winter",46,0.0266955266955267,4,18,22,7
+"Thermothielavioides terrestris","winter",42,0.031024531024531,13,12,25,8
+"Candidatus Planktophila lacus","winter",35,0.0329828901257473,25,10,35,9
+"Pochonia chlamydosporia","winter",46,0.0113378684807256,4,38,42,10
+"Polynucleobacter sp. MWH-UH24A","winter",33,0.0305091733663162,30,13,43,11
+"Puccinia striiformis","winter",34,0.0272108843537415,27,16,43,12
+"Microcystis viridis","winter",35,0.0228818800247372,25,21,46,13
+"Pseudomonas reinekei","winter",28,0.0342197485054628,39,9,48,14
+"Flavobacterium sp. N2820","winter",33,0.0253555967841682,30,20,50,15
+"Candidatus Planktophila versatilis","winter",34,0.0199958771387343,27,24,51,16
+"Pyricularia oryzae","winter",36,0.0187590187590188,24,27,51,17
+"Fusarium fujikuroi","winter",39,0.0146361574933004,19,33,52,18
+"Limnohabitans sp. 63ED37-2","winter",21,0.0443207586064729,49,4,53,19
+"Candidatus Methylopumilus universalis","winter",24,0.0327767470624614,44,11,55,20
+"Fusarium musae","winter",40,0.0107194392908679,17,40,57,21
+"Botrytis cinerea","winter",46,0.00535971964543393,4,54,58,22
+"Neurospora crassa","winter",43,0.00824572253143682,11,49,60,23
+"Drechmeria coniospora","winter",39,0.0101010101010101,19,41,60,24
+"Psilocybe cubensis","winter",16,0.0385487528344671,55,5,60,25
+"Candidatus Planktophila limnetica","winter",32,0.0175221603793032,32,29,61,26
+"Candidatus Nanopelagicus hibericus","winter",32,0.0148423005565863,32,31,63,27
+"Gemmobacter aquarius","winter",8,0.0744176458462173,63,1,64,28
+"Pyricularia grisea","winter",39,0.00845186559472274,19,46,65,29
+"Fusarium poae","winter",45,0.00412286126571841,7,58,65,30
+"Pyricularia pennisetigena","winter",42,0.00680272108843537,13,53,66,31
+"Acidovorax carolinensis","winter",24,0.0220573077715935,44,22,66,32
+"Candidatus Planktophila dulcis","winter",32,0.0131931560502989,32,35,67,33
+"Candidatus Planktophila vernalis","winter",34,0.00989486703772418,27,42,69,34
+"Paenibacillus larvae","winter",8,0.0379303236446094,63,6,69,35
+"Candidatus Methylopumilus rimovensis","winter",11,0.0280354566068852,58,15,73,36
+"Aspergillus flavus","winter",43,0.00288600288600289,11,62,73,37
+"Cohnella abietis","winter",42,0.00371057513914657,13,61,74,38
+"Thermothelomyces thermophilus","winter",40,0.00412286126571841,17,58,75,39
+"Flavobacterium channae","winter",22,0.0179344465058751,47,28,75,40
+"Talaromyces rugulosus","winter",44,0.00164914450628736,8,69,77,41
+"Microcystis aeruginosa","winter",25,0.0119562976705834,42,36,78,42
+"Candidatus Nanopelagicus abundans","winter",30,0.00927643784786642,35,44,79,43
+"Acinetobacter lwoffii","winter",21,0.0169037311894455,49,30,79,44
+"Polynucleobacter necessarius","winter",15,0.0210265924551639,56,23,79,45
+"Fusarium venenatum","winter",38,0.00412286126571841,23,58,81,46
+"Haloarcula taiwanensis","winter",23,0.0119562976705834,46,36,82,47
+"Candidatus Nanopelagicus limnes","winter",28,0.0090702947845805,39,45,84,48
+"Purpureocillium takamizusanense","winter",39,0.00185528756957328,19,67,86,49
+"Luteolibacter ambystomatis","winter",4,0.0379303236446094,81,6,87,50
+"Polynucleobacter sp. MWH-CaK5","winter",29,0.00762729334157906,37,50,87,51
+"Bacillus cereus","winter",8,0.0197897340754484,63,25,88,52
+"Acidovorax sp. JMULE5","winter",28,0.00742115027829314,39,51,90,53
+"Variovorax paradoxus","winter",30,0.00432900432900433,35,56,91,54
+"Pseudanabaena sp. ABRG5-3","winter",10,0.0148423005565863,60,31,91,55
+"Penicillium oxalicum","winter",25,0.00700886415172129,42,52,94,56
+"Acidovorax sp. T1","winter",17,0.00845186559472274,53,46,99,57
+"Oscillatoria nigro-viridis","winter",13,0.00948258091115234,57,43,100,58
+"Candidatus Planktophila sulfonica","winter",29,0.00247371675943105,37,64,101,59
+"Legionella pneumophila","winter",7,0.0133992991135848,68,34,102,60
+"Polynucleobacter asymbioticus","winter",7,0.0109255823541538,68,39,107,61
+"Microcystis sp. MC19","winter",17,0.00432900432900433,53,56,109,62
+"Polynucleobacter sp. AM-7D1","winter",8,0.00845186559472274,63,46,109,63
+"Acidovorax sp. KKS102","winter",22,0.00226757369614512,47,65,112,64
+"Escherichia coli","winter",2,0.0191713048855906,88,26,114,65
+"Planktothrix agardhii","winter",11,0.00288600288600289,58,62,120,66
+"Limnohabitans sp. 103DPR2","winter",18,0.00144300144300144,52,71,123,67
+"Sphingorhabdus lacus","winter",6,0.00535971964543393,72,54,126,68
+"Aeromonas sp. 2692-1","winter",9,0.0020614306328592,62,66,128,69
+"Pseudomonas fluorescens","winter",21,0,49,81,130,70
+"Polynucleobacter sp. MWH-Aus1W21","winter",10,0.000412286126571841,60,75,135,71
+"Microcoleus vaginatus","winter",6,0.00164914450628736,72,69,141,72
+"Candidatus Fonsibacter ubiquis","winter",7,0.000412286126571841,68,75,143,73
+"Fusarium pseudograminearum","winter",8,0.00020614306328592,63,80,143,74
+"Candida dubliniensis","winter",6,0.00123685837971552,72,73,145,75
+"Colletotrichum higginsianum","winter",6,0.000412286126571841,72,75,147,76
+"Polynucleobacter difficilis","winter",7,0,68,81,149,77
+"Pirellula sp. SH-Sr6A","winter",5,0.00144300144300144,78,71,149,78
+"Pseudomonas izuensis","winter",3,0.00185528756957328,83,67,150,79
+"Priestia megaterium","winter",5,0.000412286126571841,78,75,153,80
+"Polynucleobacter sp. AP-Ainpum-60-G11","winter",6,0,72,81,153,81
+"Flavobacterium cyclinae","winter",5,0.000412286126571841,78,75,153,82
+"Polynucleobacter sp. Adler-ghost","winter",6,0,72,81,153,83
+"Bibersteinia trehalosi","winter",3,0.000824572253143682,83,74,157,84
+"Pseudomonas sp. S34","winter",4,0,81,81,162,85
+"Rahnella inusitata","winter",3,0,83,81,164,86
+"Luteolibacter luteus","winter",3,0,83,81,164,87
+"Circovirus-like genome DHCV-1","winter",3,0,83,81,164,88
+"Photobacterium damselae","winter",2,0,88,81,169,89
+"Pseudomonas aeruginosa","winter",2,0,88,81,169,90
+"Pseudomonas syringae","winter",2,0,88,81,169,91
+"Bacillus thuringiensis","winter",2,0,88,81,169,92
+"Klebsiella pneumoniae","winter",1,0,93,81,174,93
+"Paraglaciecola sp. L1A13","winter",1,0,93,81,174,94
+"Acinetobacter baumannii","winter",1,0,93,81,174,95
+"Salmonella enterica","winter",1,0,93,81,174,96
+"Ruminococcus sp. FMBCY1","winter",1,0,93,81,174,97
+"Flavobacterium sp. Sr18","winter",0,0,98,81,179,98
+"Pseudomonas putida","winter",0,0,98,81,179,99
+"Streptomyces lividans","winter",0,0,98,81,179,100

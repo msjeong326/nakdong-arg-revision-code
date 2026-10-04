@@ -1,0 +1,25 @@
+{
+  "title": "Table S5. Adjusted high-microcystin contrasts for 18 MAG-derived resistance-candidate drug classes",
+  "subtitle": "Original submitted model: site, season and water-temperature adjustment; effect estimates, 95% confidence intervals and model-based minimum detectable effects.",
+  "headers": [
+    "Drug class",
+    "Adjusted coefficient\nlog₂(count + 1)",
+    "OLS standard\nerror",
+    "95% CI\nlower",
+    "95% CI\nupper",
+    "Adjusted ratio\n(count + 1)",
+    "Ratio 95% CI\nlower",
+    "Ratio 95% CI\nupper",
+    "P value\nOLS",
+    "Q value\nBH, 1,064 features",
+    "MDE₈₀\nlog₂(count + 1)"
+  ],
+  "notes": [
+    "1. Candidate counts summarize RGI matches in representative MAGs assigned to their origin samples. The contrast compares high (>1.0 µg/L) with low (≤1.0 µg/L) microcystin conditions, adjusted for site, season and water temperature.",
+    "2. Coefficients and their confidence limits are on the log₂(candidate count + 1) scale. Confidence intervals are pointwise 95% ordinary least squares (OLS) intervals without multiplicity adjustment.",
+    "3. Ratios and ratio confidence limits are obtained as 2 raised to the corresponding coefficient or limit. They describe adjusted geometric-mean ratios of candidate count + 1, not fold changes in directly measured ARG abundance.",
+    "4. P values are two-sided OLS tests. Q values retain the original Benjamini–Hochberg (BH) adjustment across 1,064 functional features.",
+    "5. MDE₈₀ is the effect magnitude required for 80% power under a fixed-design OLS, noncentral-t approximation using the estimated residual variance, 92 residual degrees of freedom and two-sided α = 0.05/18 (Bonferroni). It is not the power of the original 1,064-feature BH procedure."
+  ],
+  "source_workbook_sha256": "deec11d537ba9241b694d53894ab0175d238da4f5ae009507d3629b0cd025cbd"
+}
